@@ -1,5 +1,5 @@
 # Dependency Injection and Unit Testing
-## Avensoft Presentation, 2015.11.09 @ Budapest
+## Avensoft Presentation, 2015.11.09 @ Budapest by Peter ADAM @pvadam
 
 ### Important Notice
 The projects were created and tested in Visual Studio Code on OS X.
