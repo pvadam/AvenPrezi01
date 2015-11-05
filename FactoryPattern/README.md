@@ -1,4 +1,4 @@
-# Factory Patter
+# Factory Pattern
 ## Avensoft Presentation, 2015.11.09 @ Budapest by Peter ADAM @pvadam
 
 ### Description
