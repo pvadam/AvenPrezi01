@@ -17,5 +17,5 @@ The projects were created and tested in Visual Studio Code on OS X.
 3. Run ```git clone https://github.com/pvadam/AvenPrezi01.git```.
 4. Navigate to the repo folder: ```cd AvenPrezi01```.
 5. Select the desired project folder you wish to work on. E.g. ```cd FactoryPattern```.
-6. Install dependencies: ```npm install ```.
+6. Install dependencies: ```npm install ```. Some of projects does not have any dependencies, either package.json file which might end up in an error message like ``` no such file or directory, open 'package.json'``` which is expected. 
 7. To run the console app: ```dnx run```.
