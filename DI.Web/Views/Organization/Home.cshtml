@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "DI Sample";
+}
+<h1>@ViewData["Error"]</h2>
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<h4>Projects</h4>
+@foreach (var item in Model.Projects)
+{
+    <div>Name: @item.Name</div>
+    <div>Stars: @item.Description</div>
+    <div>Stars: @item.Stars</div>
+    <br/>
+}

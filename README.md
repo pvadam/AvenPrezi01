@@ -9,7 +9,7 @@ The projects were created and tested in Visual Studio Code on OS X.
 - ```git``` installed. See instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 - install ```Visual Studio Code```. You can download it [here](https://code.visualstudio.com/) for free.
 - ```npm``` installed (Node Package Manager). See install instructions [here](https://docs.npmjs.com/getting-started/installing-node).
-- ```ASP .Net 5``` installed (Mono was not used). Follow the instruction of [Microsoft](http://docs.asp.net/en/latest/getting-started/installing-on-mac.html).
+- ```ASP .Net 5``` installed. Follow the instruction of [Microsoft](http://docs.asp.net/en/latest/getting-started/installing-on-mac.html).
 
 ### Install project
 1. Open Terminal.
